@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import {  } from 'react-redux';
 
 import Main from './components/MainComponent';
 
