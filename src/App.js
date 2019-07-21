@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import {  } from 'react-redux';
 
-import Main from './components/MainComponent';
+import Main from './components/Main';
 
 function App() {
   return (
